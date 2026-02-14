@@ -1,4 +1,0 @@
-streamlit==1.32.2
-sentence-transformers==2.6.1
-pdfplumber==0.10.3
-torch==2.2.1
